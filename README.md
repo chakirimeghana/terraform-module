@@ -1,2 +1,1 @@
-# terraform-module
-https://dev.azure.com/vtu6917/Terraform-module/_apis/build/status%2Fchakirimeghana.gitpractice?branchName=main
+[![Build Status](https://dev.azure.com/vtu6917/Terraform-module/_apis/build/status%2Fchakirimeghana.gitpractice?branchName=main)](https://dev.azure.com/vtu6917/Terraform-module/_build/latest?definitionId=24&branchName=main)
